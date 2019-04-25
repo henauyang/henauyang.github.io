@@ -7,6 +7,4 @@
 		<div id="">
 			<h1>表白网站</h1>
 		</div>
-		
-	</body>
 </html>
